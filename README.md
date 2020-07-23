@@ -2,6 +2,8 @@
 This is a website written in Vue.js for achievements/trophies Hunter to enjoy their collection
 
 https://playperfect.app/
+https://github.com/ckw1/PlayPerfect
+https://www.patreon.com/ckw1
 
 ## Feature:
 * Support Steam, PSN and RetroAchievements (other platform coming soon...)
@@ -67,3 +69,8 @@ You can also choose different view for achievement (default is *Grid*)
 ![](/tutorial/AchievementTable.png)
 
 #### *Chart*, *Stats*, *Achievements Rarity* and much more I let you to discover yourself...
+
+## Welcome to support me on patreon
+
+> Only one plan with one buck 🥂
+> https://www.patreon.com/ckw1
