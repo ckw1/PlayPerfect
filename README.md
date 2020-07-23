@@ -18,3 +18,34 @@ https://playperfect.app/
 
 ## Tutorial:
 
+### Step 1: Enter your public game ID
+* Your game account must be public (at least public for your games and achievements/trophies)
+* You may use comma(,) to seperate if you have two accounts
+
+### Step 2: Sync your collection after enter your ID
+* You should see the progress bar running when it is syncing
+
+### Step 3: After Sync is completed, your collection will auto refresh and present to you
+
+* Click the button to update your collection after sync is completed if not update automatically
+
+## Collection:
+### Collection View
+You can choose different view for your collection (default is *Carousel*)
+> Carousel / Table / Cover Flow 
+
+*Cover Flow view does not support lazy load, so it will render all cover images of you collection immediately, it could cause performance issue and generate huge network traffic. A warning will be prompted before you enter that mode.*
+
+### Achievement View
+
+You can also choose different view for achievement (default is *Grid*)
+> Grid / Table
+
+*For Grid View, You can hover to the achievement icon and it will show the detail and the date earned*
+
+## Chart, Stats and Achievements Rarity
+### Chart
+
+### Stats
+
+### Achievements Rarity
