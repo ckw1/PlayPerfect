@@ -21,6 +21,8 @@ https://playperfect.app/
 ### Step 1: Enter your public game ID
 * Your game account must be public (at least public for your games and achievements/trophies)
 * You may use comma(,) to seperate if you have two accounts
+![](/tutorial/login.png =150x100)
+![](/tutorial/login2.png)
 
 ### Step 2: Sync your collection after enter your ID
 * You should see the progress bar running when it is syncing
