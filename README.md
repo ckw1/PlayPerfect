@@ -1,5 +1,5 @@
 # Play Perfect
-This is a website written in Vue.js for achievements/trophies Hunter to enjoy their collection
+This is a website written in Vue.js for achievements or trophies hunter to track their games collection
 
 https://playperfect.app/
 https://github.com/ckw1/PlayPerfect
