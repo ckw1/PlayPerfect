@@ -1,3 +1,4 @@
+![](/tutorial/coverflow.png)
 # Play Perfect
 This is a website written in Vue.js for achievements or trophies hunter to track their games collection
 
