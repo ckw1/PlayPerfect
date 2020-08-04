@@ -3,7 +3,9 @@
 This is a website written in Vue.js for achievements or trophies hunter to track their games collection
 
 https://playperfect.app/
+
 https://github.com/ckw1/PlayPerfect
+
 https://www.patreon.com/ckw1
 
 ## Feature:
