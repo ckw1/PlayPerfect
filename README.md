@@ -4,6 +4,12 @@ This is a website written in Vue.js for achievements or trophies hunter to track
 
 https://playperfect.app/
 
+## What's news
+
+```
+v2.0: Added support for Xbox achievements (Win10, Xbox Series, Xbox One, Xbox360)
+```
+
 ## Feature:
 * Support Steam, PSN, Xbox and RetroAchievements (other platform coming soon...)
 * **Allow dual accounts on same platform** (PSN and Steam only)
@@ -70,6 +76,4 @@ You can also choose different view for achievement (default is *Grid*)
 #### *Chart*, *Stats*, *Achievements Rarity* and much more I let you to discover yourself...
 
 ## Welcome to support me on patreon
-
-> Only one plan with one buck 🥂
 > https://www.patreon.com/ckw1
