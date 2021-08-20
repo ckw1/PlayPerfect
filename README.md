@@ -4,12 +4,8 @@ This is a website written in Vue.js for achievements or trophies hunter to track
 
 https://playperfect.app/
 
-https://github.com/ckw1/PlayPerfect
-
-https://www.patreon.com/ckw1
-
 ## Feature:
-* Support Steam, PSN and RetroAchievements (other platform coming soon...)
+* Support Steam, PSN, Xbox and RetroAchievements (other platform coming soon...)
 * **Allow dual accounts on same platform** (PSN and Steam only)
 * Multiple good looking interface, you can pick whatever you want 
 * Single Sign On(SSO) with Google accounts
