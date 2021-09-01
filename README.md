@@ -7,7 +7,7 @@ https://playperfect.app/
 ## What's news
 
 ```
-v2.0: Added support for Xbox achievements (Win10, Xbox Series, Xbox One, Xbox360)
+v2.1: Added support for PS5 Games, PS4/PS5 Play Time, Xbox In-Game Stats
 ```
 
 ## Feature:
